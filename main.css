@@ -1,0 +1,79 @@
+
+
+._form{
+    margin-top: 50px;
+}
+.img_box {
+  margin-left: 100px;
+}
+.input-증상{
+    border-radius: 5px;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, .55),
+    0px 1px 1px rgba(255, 255, 255, .5);
+    border: 1px solid #666;
+}
+.input-구{
+    border-radius: 5px;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, .55),
+    0px 1px 1px rgba(255, 255, 255, .5);
+    border: 1px solid #666;
+}
+
+.button-one {
+    padding: 10px 20px;
+    margin-left: 20px;
+    outline: none;
+    background-color: #BDBDBD;
+    border: none;
+    border-radius:5px;
+    font-size:1rem;
+    font-weight:bold;
+}
+.button-two{
+    padding: 10px 20px;
+    margin-left: 20px;
+    outline: none;
+    background-color: #BDBDBD;
+    border: none;
+    border-radius:5px;
+    font-size:1rem;
+    font-weight:bold;
+}
+
+
+.input_form{
+    width: 70%;
+    height: 100px;
+    margin: auto;
+    padding-top: 35px;
+    padding-left: 50px;
+}
+
+.hosp_form{
+    width: 100%;
+    height: 100px;
+    margin: auto;
+    padding-top: 35px;
+    padding-left: 35px;
+}
+
+.input_disease{
+    border: 1px solid gray;
+    width: 550px;
+    border-radius:5px;
+    height: 100px;
+    margin: auto;
+}
+
+.select_hosp{
+    border: 1px solid gray;
+    border-radius:5px;
+    width: 550px;
+    height: 100px;
+    margin: auto;
+}
+
+.select{
+    border-radius:5px;
+    height: 24;
+}
